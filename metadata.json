@@ -1,0 +1,6 @@
+{
+  "name": "CHOP.KZ",
+  "description": "CHOP.KZ – Comprar Online Nunca Foi Tão Fácil. A maior plataforma de compras online de Angola.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
